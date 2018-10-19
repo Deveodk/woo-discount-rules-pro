@@ -1,0 +1,117 @@
+[
+    {
+        "name": "flycartinc/inputhelper",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/flycartinc/InputHelper.git",
+            "reference": "d0443792937349d58f6a5c553d010f87fa09ee3e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/flycartinc/InputHelper/zipball/d0443792937349d58f6a5c553d010f87fa09ee3e",
+            "reference": "d0443792937349d58f6a5c553d010f87fa09ee3e",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2017-01-25T08:42:12+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "FlycartInput\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Ashlin Rejo"
+            }
+        ],
+        "description": "Data Sanitization and Validation With WordPress"
+    },
+    {
+        "name": "yahnis-elsts/plugin-update-checker",
+        "version": "v4.0.3",
+        "version_normalized": "4.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/YahnisElsts/plugin-update-checker.git",
+            "reference": "e4854cdb388153ce238044518c67888976d4a4ec"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/YahnisElsts/plugin-update-checker/zipball/e4854cdb388153ce238044518c67888976d4a4ec",
+            "reference": "e4854cdb388153ce238044518c67888976d4a4ec",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.0"
+        },
+        "time": "2017-01-24T10:18:34+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Yahnis Elsts",
+                "email": "whiteshadow@w-shadow.com",
+                "homepage": "http://w-shadow.com/",
+                "role": "Developer"
+            }
+        ],
+        "description": "A custom update checker for WordPress plugins and themes. Useful if you can't host your plugin in the official WP repository but still want it to support automatic updates.",
+        "homepage": "https://github.com/YahnisElsts/plugin-update-checker/",
+        "keywords": [
+            "automatic updates",
+            "plugin updates",
+            "theme updates",
+            "wordpress"
+        ]
+    },
+    {
+        "name": "askupa-software/wp-admin-notification",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/askupasoftware/wp-admin-notification.git",
+            "reference": "90bc92aeb60ab3ffc3d581fafa16fb82a9b02f4a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/askupasoftware/wp-admin-notification/zipball/90bc92aeb60ab3ffc3d581fafa16fb82a9b02f4a",
+            "reference": "90bc92aeb60ab3ffc3d581fafa16fb82a9b02f4a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2017-03-20T21:01:42+00:00",
+        "type": "wordpress",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Askupa Software",
+                "email": "hello@askupasoftware.com"
+            }
+        ],
+        "description": "Add static/dismissible admin notifications to WordPress",
+        "homepage": "https://github.com/askupasoftware/wp-dismissible-notice",
+        "keywords": [
+            "framework",
+            "notices",
+            "wordpress"
+        ]
+    }
+]

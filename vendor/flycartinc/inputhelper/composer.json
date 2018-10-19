@@ -1,0 +1,21 @@
+{	
+	"name": "flycartinc/inputhelper",
+    	"description": "Data Sanitization and Validation With WordPress",
+	"type": "library",
+    	"license": "MIT",
+	"authors": [
+		    {
+		      "name":     "Ashlin Rejo"
+		    }
+		],
+	"require": {
+		"php": ">=5.3.0"
+	    },
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"FlycartInput\\": "src/"
+			}
+		}
+}

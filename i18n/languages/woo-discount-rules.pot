@@ -1,0 +1,1412 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Woo Discount Rules\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Flycart\n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: helper/general-helper.php:39
+msgid "Guest"
+msgstr ""
+
+#: helper/general-helper.php:576
+msgid "Read Docs"
+msgstr ""
+
+#: helper/purchase.php:25 view/includes/cart-menu.php:5
+#: view/includes/menu.php:6 view/includes/sub-menu.php:5
+msgid "Woo Discount Rules"
+msgstr ""
+
+#: helper/purchase.php:60 helper/purchase.php:132
+msgid "The license key for "
+msgstr ""
+
+#: helper/purchase.php:60 helper/purchase.php:132
+msgid "seems invalid."
+msgstr ""
+
+#: helper/purchase.php:60 helper/purchase.php:64 helper/purchase.php:132
+#: helper/purchase.php:135 helper/purchase.php:165
+msgid "Please enter a valid license key"
+msgstr ""
+
+#: helper/purchase.php:60 helper/purchase.php:64 helper/purchase.php:132
+#: helper/purchase.php:135
+msgid "You can get it from"
+msgstr ""
+
+#: helper/purchase.php:60 helper/purchase.php:64 helper/purchase.php:132
+#: helper/purchase.php:135
+msgid "our website"
+msgstr ""
+
+#: helper/purchase.php:64 helper/purchase.php:135
+msgid "License key for the "
+msgstr ""
+
+#: helper/purchase.php:64 helper/purchase.php:135
+msgid "is not entered."
+msgstr ""
+
+#: helper/purchase.php:71
+msgid ": You are using CORE version. Please Update to PRO version."
+msgstr ""
+
+#: helper/purchase.php:95
+msgid "-PRO-"
+msgstr ""
+
+#: helper/purchase.php:104
+msgid "Pro"
+msgstr ""
+
+#: helper/purchase.php:106
+msgid "Core"
+msgstr ""
+
+#: helper/purchase.php:174
+msgid "License key check : Passed."
+msgstr ""
+
+#: helper/purchase.php:178 view/settings.php:62
+msgid "License key seems to be Invalid. Please enter a valid license key"
+msgstr ""
+
+#: helper/woo-function.php:354 helper/woo-function.php:364
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: helper/woo-function.php:397 helper/woo-function.php:409
+msgid "Search for a user&hellip;"
+msgstr ""
+
+#: includes/advanced/free_shipping_method.php:16
+msgid "WooDiscount Free Shipping"
+msgstr ""
+
+#: includes/advanced/free_shipping_method.php:17
+msgid "Custom Shipping Method for Woocommerce Discount Rules"
+msgstr ""
+
+#: includes/advanced/free_shipping_method.php:68 view/settings.php:421
+msgid "Free Shipping"
+msgstr ""
+
+#: includes/advanced/free_shipping_method.php:73 includes/discount-base.php:874
+#: view/cart-rules.php:128 view/pricing-rules.php:156 view/settings.php:502
+#: view/settings.php:537
+msgid "Enable"
+msgstr ""
+
+#: includes/advanced/free_shipping_method.php:75
+msgid "Enable this shipping."
+msgstr ""
+
+#: includes/advanced/free_shipping_method.php:80
+msgid "Title"
+msgstr ""
+
+#: includes/advanced/free_shipping_method.php:82
+msgid "Title to be display on site"
+msgstr ""
+
+#: includes/discount-base.php:365
+msgid "Cache cleared successfully"
+msgstr ""
+
+#: includes/discount-base.php:367
+msgid "Failed to clear cache"
+msgstr ""
+
+#: includes/discount-base.php:473 includes/discount-base.php:508
+msgid "Failed to do action"
+msgstr ""
+
+#: includes/discount-base.php:512
+msgid "Disabled successfully"
+msgstr ""
+
+#: includes/discount-base.php:515
+msgid "Deleted successfully"
+msgstr ""
+
+#: includes/discount-base.php:518
+msgid "Enabled successfully"
+msgstr ""
+
+#: includes/discount-base.php:538 includes/discount-base.php:539
+#: includes/discount-base.php:556
+msgid "copy"
+msgstr ""
+
+#: includes/discount-base.php:564
+msgid "Duplicate rule created successfully"
+msgstr ""
+
+#: includes/discount-base.php:568
+msgid "Failed to create duplicate rule"
+msgstr ""
+
+#: includes/discount-base.php:831
+msgid "Please fill this field"
+msgstr ""
+
+#: includes/discount-base.php:832
+msgid "Please Enter the Rule Name to Create / Save."
+msgstr ""
+
+#: includes/discount-base.php:833
+msgid "Saving..."
+msgstr ""
+
+#: includes/discount-base.php:834 view/view-cart-rules.php:54
+#: view/view-pricing-rules.php:38
+msgid "Save Rule"
+msgstr ""
+
+#: includes/discount-base.php:835
+msgid "Please enter a Key"
+msgstr ""
+
+#: includes/discount-base.php:836 view/view-pricing-rules.php:594
+msgid "Min Quantity"
+msgstr ""
+
+#: includes/discount-base.php:837 view/view-pricing-rules.php:601
+msgid "Max Quantity"
+msgstr ""
+
+#: includes/discount-base.php:838 view/view-cart-rules.php:76
+#: view/view-pricing-rules.php:61 view/view-pricing-rules.php:599
+#: view/view-pricing-rules.php:664 view/view-pricing-rules.php:681
+#: view/view-pricing-rules.php:688
+msgid "ex. 1"
+msgstr ""
+
+#: includes/discount-base.php:839 view/view-pricing-rules.php:720
+msgid "ex. 10"
+msgstr ""
+
+#: includes/discount-base.php:840 view/view-pricing-rules.php:606
+#: view/view-pricing-rules.php:642
+msgid "ex. 50"
+msgstr ""
+
+#: includes/discount-base.php:841
+msgid "Search for a user"
+msgstr ""
+
+#: includes/discount-base.php:842 view/view-pricing-rules.php:607
+msgid "Adjustment Type"
+msgstr ""
+
+#: includes/discount-base.php:843 view/view-cart-rules.php:571
+#: view/view-pricing-rules.php:613
+msgid "Percentage Discount"
+msgstr ""
+
+#: includes/discount-base.php:844 view/view-cart-rules.php:577
+#: view/view-cart-rules.php:579 view/view-pricing-rules.php:621
+#: view/view-pricing-rules.php:623
+msgid "Price Discount"
+msgstr ""
+
+#: includes/discount-base.php:845 view/view-pricing-rules.php:631
+#: view/view-pricing-rules.php:633
+msgid "Product Discount"
+msgstr ""
+
+#: includes/discount-base.php:846
+msgid "Product Discount - Not support for subtotal based rule"
+msgstr ""
+
+#: includes/discount-base.php:847 view/view-cart-rules.php:382
+#: view/view-pricing-rules.php:637 view/view-pricing-rules.php:745
+msgid "Value"
+msgstr ""
+
+#: includes/discount-base.php:848 view/view-pricing-rules.php:648
+msgid "Apply for"
+msgstr ""
+
+#: includes/discount-base.php:849 view/view-cart-rules.php:372
+#: view/view-cart-rules.php:374 view/view-pricing-rules.php:650
+msgid "All selected"
+msgstr ""
+
+#: includes/discount-base.php:850 view/view-pricing-rules.php:651
+msgid "Same product"
+msgstr ""
+
+#: includes/discount-base.php:851 view/view-pricing-rules.php:652
+msgid "Any one cheapest from selected"
+msgstr ""
+
+#: includes/discount-base.php:852 view/view-pricing-rules.php:653
+msgid "Any one cheapest from all products"
+msgstr ""
+
+#: includes/discount-base.php:853 view/view-pricing-rules.php:654
+msgid "More than one cheapest from selected category"
+msgstr ""
+
+#: includes/discount-base.php:854 view/view-pricing-rules.php:655
+msgid "More than one cheapest from selected"
+msgstr ""
+
+#: includes/discount-base.php:855 view/view-pricing-rules.php:656
+msgid "More than one cheapest from all"
+msgstr ""
+
+#: includes/discount-base.php:856 view/view-pricing-rules.php:659
+msgid "Free quantity"
+msgstr ""
+
+#: includes/discount-base.php:857 view/view-pricing-rules.php:659
+msgid "Number of quantity(ies) in each selected product(s)"
+msgstr ""
+
+#: includes/discount-base.php:858 view/view-pricing-rules.php:673
+msgid "Fixed item count"
+msgstr ""
+
+#: includes/discount-base.php:859 view/view-pricing-rules.php:672
+msgid "Dynamic item count"
+msgstr ""
+
+#: includes/discount-base.php:860 view/view-pricing-rules.php:675
+msgid ""
+"Fixed item count - You need to provide item count manually. Dynamic item "
+"count - System will choose dynamically based on cart"
+msgstr ""
+
+#: includes/discount-base.php:861 view/view-pricing-rules.php:676
+msgid "Item count"
+msgstr ""
+
+#: includes/discount-base.php:862 view/view-pricing-rules.php:676
+msgid "Discount for number of item(s) in cart"
+msgstr ""
+
+#: includes/discount-base.php:863 view/view-pricing-rules.php:683
+msgid "Discount for number of quantity(ies) in each item"
+msgstr ""
+
+#: includes/discount-base.php:864 view/view-pricing-rules.php:683
+msgid "Item quantity"
+msgstr ""
+
+#: includes/discount-base.php:865
+msgid "Search for a products"
+msgstr ""
+
+#: includes/discount-base.php:866 view/view-pricing-rules.php:710
+msgid "and"
+msgstr ""
+
+#: includes/discount-base.php:867 view/view-pricing-rules.php:712
+msgid "100% percent"
+msgstr ""
+
+#: includes/discount-base.php:868 view/view-pricing-rules.php:713
+msgid "Limited percent"
+msgstr ""
+
+#: includes/discount-base.php:869 view/view-pricing-rules.php:720
+msgid "Percentage"
+msgstr ""
+
+#: includes/discount-base.php:870 view/view-pricing-rules.php:722
+msgid "as discount"
+msgstr ""
+
+#: includes/discount-base.php:871 view/view-cart-rules.php:535
+#: view/view-pricing-rules.php:727
+msgid "Remove"
+msgstr ""
+
+#: includes/discount-base.php:872
+msgid "none"
+msgstr ""
+
+#: includes/discount-base.php:873
+msgid "Are you sure to remove this ?"
+msgstr ""
+
+#: includes/discount-base.php:875 view/cart-rules.php:125
+#: view/pricing-rules.php:153
+msgid "Disable"
+msgstr ""
+
+#: includes/discount-base.php:876
+msgid "Are you sure to remove ?"
+msgstr ""
+
+#: includes/discount-base.php:877 view/view-cart-rules.php:157
+msgid "Type"
+msgstr ""
+
+#: includes/discount-base.php:878 view/view-cart-rules.php:161
+msgid "Cart Subtotal"
+msgstr ""
+
+#: includes/discount-base.php:879 view/view-cart-rules.php:164
+msgid "Subtotal at least"
+msgstr ""
+
+#: includes/discount-base.php:880 view/view-cart-rules.php:168
+msgid "Subtotal less than"
+msgstr ""
+
+#: includes/discount-base.php:881 view/view-cart-rules.php:171
+msgid "Cart Item Count"
+msgstr ""
+
+#: includes/discount-base.php:882 view/view-cart-rules.php:174
+msgid "Number of line items in the cart (not quantity) at least"
+msgstr ""
+
+#: includes/discount-base.php:883 view/view-cart-rules.php:178
+msgid "Number of line items in the cart (not quantity) less than"
+msgstr ""
+
+#: includes/discount-base.php:884 view/view-cart-rules.php:181
+msgid "Quantity Sum"
+msgstr ""
+
+#: includes/discount-base.php:885 view/view-cart-rules.php:187
+#: view/view-cart-rules.php:190
+msgid "Total number of quantities in the cart at least"
+msgstr ""
+
+#: includes/discount-base.php:886 view/view-cart-rules.php:199
+#: view/view-cart-rules.php:202
+msgid "Total number of quantities in the cart less than"
+msgstr ""
+
+#: includes/discount-base.php:887 view/view-cart-rules.php:211
+msgid "Categories in cart"
+msgstr ""
+
+#: includes/discount-base.php:888 view/view-cart-rules.php:217
+msgid "Including sub-categories in cart"
+msgstr ""
+
+#: includes/discount-base.php:889 view/view-cart-rules.php:226
+msgid "Customer Details (must be logged in)"
+msgstr ""
+
+#: includes/discount-base.php:890 view/view-cart-rules.php:232
+#: view/view-cart-rules.php:234
+msgid "User in list"
+msgstr ""
+
+#: includes/discount-base.php:891 view/view-cart-rules.php:242
+#: view/view-cart-rules.php:244
+msgid "User role in list"
+msgstr ""
+
+#: includes/discount-base.php:892 view/view-cart-rules.php:252
+#: view/view-cart-rules.php:254
+msgid "Shipping country in list"
+msgstr ""
+
+#: includes/discount-base.php:893 view/view-cart-rules.php:258
+msgid "Customer Email"
+msgstr ""
+
+#: includes/discount-base.php:894
+msgid "Email with TLD (Ege: edu)"
+msgstr ""
+
+#: includes/discount-base.php:895 view/view-cart-rules.php:274
+#: view/view-cart-rules.php:276
+msgid "Email with Domain (Eg: gmail.com)"
+msgstr ""
+
+#: includes/discount-base.php:896 view/view-cart-rules.php:280
+msgid "Customer Billing Details"
+msgstr ""
+
+#: includes/discount-base.php:897 view/view-cart-rules.php:286
+#: view/view-cart-rules.php:288
+msgid "Billing city"
+msgstr ""
+
+#: includes/discount-base.php:898 view/view-cart-rules.php:292
+msgid "Customer Shipping Details"
+msgstr ""
+
+#: includes/discount-base.php:899 view/view-cart-rules.php:298
+#: view/view-cart-rules.php:300
+msgid "Shipping state"
+msgstr ""
+
+#: includes/discount-base.php:900 view/view-cart-rules.php:308
+#: view/view-cart-rules.php:310
+msgid "Shipping city"
+msgstr ""
+
+#: includes/discount-base.php:901 view/view-cart-rules.php:318
+#: view/view-cart-rules.php:320
+msgid "Shipping zip code"
+msgstr ""
+
+#: includes/discount-base.php:902 view/view-cart-rules.php:324
+#: view/view-pricing-rules.php:423
+msgid "Purchase History"
+msgstr ""
+
+#: includes/discount-base.php:903 view/view-cart-rules.php:330
+#: view/view-cart-rules.php:332 view/view-pricing-rules.php:431
+msgid "Purchased amount"
+msgstr ""
+
+#: includes/discount-base.php:904 view/view-cart-rules.php:340
+#: view/view-cart-rules.php:342
+msgid "Number of order purchased"
+msgstr ""
+
+#: includes/discount-base.php:905 view/view-cart-rules.php:350
+#: view/view-cart-rules.php:352
+msgid "Number of order purchased in products"
+msgstr ""
+
+#: includes/discount-base.php:906 view/view-cart-rules.php:356
+msgid "Coupon applied"
+msgstr ""
+
+#: includes/discount-base.php:907 view/view-cart-rules.php:362
+#: view/view-cart-rules.php:364
+msgid "Atleast any one"
+msgstr ""
+
+#: includes/discount-base.php:908 view/view-cart-rules.php:492
+#: view/view-pricing-rules.php:468
+msgid "Greater than or equal to"
+msgstr ""
+
+#: includes/discount-base.php:909 view/view-cart-rules.php:493
+#: view/view-pricing-rules.php:469
+msgid "Less than or equal to"
+msgstr ""
+
+#: includes/discount-base.php:910 view/view-cart-rules.php:495
+#: view/view-pricing-rules.php:472
+msgid "In Order status"
+msgstr ""
+
+#: includes/discount-base.php:911 view/cart-rules.php:109
+#: view/cart-rules.php:179 view/pricing-rules.php:137
+#: view/pricing-rules.php:207 view/view-cart-rules.php:534
+msgid "Action"
+msgstr ""
+
+#: includes/discount-base.php:912 view/settings.php:21
+msgid "Save"
+msgstr ""
+
+#: includes/discount-base.php:913
+msgid "Saved Successfully!"
+msgstr ""
+
+#: includes/discount-base.php:914 view/view-cart-rules.php:411
+#: view/view-cart-rules.php:430 view/view-cart-rules.php:451
+#: view/view-cart-rules.php:500 view/view-pricing-rules.php:191
+#: view/view-pricing-rules.php:207 view/view-pricing-rules.php:480
+#: view/view-pricing-rules.php:549 view/view-pricing-rules.php:700
+msgid "None selected"
+msgstr ""
+
+#: includes/discount-base.php:915 view/view-cart-rules.php:223
+msgid "In each category"
+msgstr ""
+
+#: includes/discount-base.php:916 view/settings.php:179 view/settings.php:198
+#: view/settings.php:217 view/settings.php:253 view/settings.php:271
+#: view/settings.php:289
+msgid "Show"
+msgstr ""
+
+#: includes/discount-base.php:917 view/template/sidebar.php:12
+msgid "Hide"
+msgstr ""
+
+#: includes/discount-base.php:918
+msgid "Please select at least one rule"
+msgstr ""
+
+#: includes/discount-base.php:919
+msgid "Please select an action to apply"
+msgstr ""
+
+#: includes/discount-base.php:920
+msgid "Are you sure to remove the selected rules"
+msgstr ""
+
+#: includes/pricing-rules.php:2458 view/view-pricing-rules.php:505
+msgid "Buy"
+msgstr ""
+
+#: includes/pricing-rules.php:2462
+msgid " less than or equal to "
+msgstr ""
+
+#: includes/pricing-rules.php:2462 includes/pricing-rules.php:2468
+msgid " Quantity"
+msgstr ""
+
+#: includes/pricing-rules.php:2465
+msgid " Quantity "
+msgstr ""
+
+#: includes/pricing-rules.php:2472
+msgid " or more Quantity"
+msgstr ""
+
+#: includes/pricing-rules.php:2481
+msgid " any "
+msgstr ""
+
+#: includes/pricing-rules.php:2481
+msgid " products from "
+msgstr ""
+
+#: includes/pricing-rules.php:2488
+msgid " in each products"
+msgstr ""
+
+#: includes/pricing-rules.php:2500
+msgid " and get discount in "
+msgstr ""
+
+#: includes/pricing-rules.php:2503
+msgid " first "
+msgstr ""
+
+#: includes/pricing-rules.php:2505 includes/pricing-rules.php:2509
+msgid " quantity of product(s) - "
+msgstr ""
+
+#: includes/pricing-rules.php:2507
+msgid " after first "
+msgstr ""
+
+#: includes/pricing-rules.php:2525
+msgid "Category(ies) "
+msgstr ""
+
+#: includes/pricing-rules.php:2591
+msgid "Get "
+msgstr ""
+
+#: includes/pricing-rules.php:2593
+#, php-format
+msgid "% discount in "
+msgstr ""
+
+#: includes/pricing-rules.php:2596
+msgid "same product"
+msgstr ""
+
+#: includes/pricing-rules.php:2598
+msgid "any cheapest one from cart"
+msgstr ""
+
+#: includes/pricing-rules.php:2601
+msgid "any cheapest one of "
+msgstr ""
+
+#: includes/pricing-rules.php:2606
+msgid " quantity of any "
+msgstr ""
+
+#: includes/pricing-rules.php:2608
+msgid " cheapest item "
+msgstr ""
+
+#: includes/pricing-rules.php:2611
+msgid " quantity of cheapest item "
+msgstr ""
+
+#: includes/pricing-rules.php:2615
+msgid "from the category "
+msgstr ""
+
+#: view/cart-rules.php:47
+msgid "Cart Rules"
+msgstr ""
+
+#: view/cart-rules.php:51 view/pricing-rules.php:83
+msgid "View Examples"
+msgstr ""
+
+#: view/cart-rules.php:52 view/documentation.php:21 view/includes/menu.php:17
+#: view/pricing-rules.php:84
+msgid "Documentation"
+msgstr ""
+
+#: view/cart-rules.php:62 view/pricing-rules.php:94
+msgid "You Reach Max. Rule Limit"
+msgstr ""
+
+#: view/cart-rules.php:67 view/pricing-rules.php:98
+msgid "Add New Rule"
+msgstr ""
+
+#: view/cart-rules.php:80 view/pricing-rules.php:108
+msgid "Bulk Actions"
+msgstr ""
+
+#: view/cart-rules.php:81 view/pricing-rules.php:109
+msgid "Enable rules"
+msgstr ""
+
+#: view/cart-rules.php:82 view/pricing-rules.php:110
+msgid "Disable rules"
+msgstr ""
+
+#: view/cart-rules.php:83 view/pricing-rules.php:111
+msgid "Delete rules"
+msgstr ""
+
+#: view/cart-rules.php:85 view/pricing-rules.php:113
+msgid "Apply"
+msgstr ""
+
+#: view/cart-rules.php:99 view/cart-rules.php:169 view/pricing-rules.php:127
+#: view/pricing-rules.php:197 view/template/discount-table.php:19
+msgid "Name"
+msgstr ""
+
+#: view/cart-rules.php:100 view/cart-rules.php:170 view/pricing-rules.php:128
+#: view/pricing-rules.php:198
+msgid "Start Date"
+msgstr ""
+
+#: view/cart-rules.php:101 view/cart-rules.php:171 view/pricing-rules.php:129
+#: view/pricing-rules.php:199
+msgid "Expired On"
+msgstr ""
+
+#: view/cart-rules.php:104 view/cart-rules.php:174 view/pricing-rules.php:132
+#: view/pricing-rules.php:202
+msgid "Order"
+msgstr ""
+
+#: view/cart-rules.php:142 view/pricing-rules.php:170
+msgid "Edit"
+msgstr ""
+
+#: view/cart-rules.php:146 view/pricing-rules.php:174
+msgid "Duplicate"
+msgstr ""
+
+#: view/cart-rules.php:153 view/pricing-rules.php:181
+msgid "Delete"
+msgstr ""
+
+#: view/documentation.php:27
+msgid "Getting started"
+msgstr ""
+
+#: view/documentation.php:27
+msgid "Welcome onboard"
+msgstr ""
+
+#: view/documentation.php:30 view/includes/menu.php:9
+msgid "Price Discount Rules"
+msgstr ""
+
+#: view/documentation.php:30
+msgid "Learn all about creating a price discount rules"
+msgstr ""
+
+#: view/documentation.php:33 view/includes/menu.php:11
+msgid "Cart Discount Rules"
+msgstr ""
+
+#: view/documentation.php:33
+msgid "Cart based discount rules with examples."
+msgstr ""
+
+#: view/documentation.php:36
+msgid "How to create a perfect BOGO discount rule in WooCommerce"
+msgstr ""
+
+#: view/documentation.php:36
+msgid ""
+"Buy One Get One deals can be simple to complex. Learn how to get them "
+"working correct in your online store"
+msgstr ""
+
+#: view/documentation.php:39
+msgid "User Role based discount rules"
+msgstr ""
+
+#: view/documentation.php:39
+msgid ""
+"Learn how to create user role based / customer group based discount in "
+"WooCommerce"
+msgstr ""
+
+#: view/documentation.php:42
+msgid "Activate discount rule using a coupon code in WooCommerce"
+msgstr ""
+
+#: view/documentation.php:42
+msgid ""
+"Apply the dynamic discount rules after the customer enters a valid coupon "
+"code"
+msgstr ""
+
+#: view/documentation.php:45
+msgid "Purchase History Based Discount"
+msgstr ""
+
+#: view/documentation.php:45
+msgid ""
+"Price Rule and Cart Rule which gives discount based on the purchase history"
+msgstr ""
+
+#: view/includes/cart-menu.php:9 view/includes/sub-menu.php:9
+#: view/settings.php:26 view/view-cart-rules.php:64
+#: view/view-pricing-rules.php:48
+msgid "General"
+msgstr ""
+
+#: view/includes/cart-menu.php:11
+msgid "Conditions"
+msgstr ""
+
+#: view/includes/cart-menu.php:13 view/includes/sub-menu.php:13
+#: view/template/discount-table.php:25 view/view-cart-rules.php:551
+#: view/view-pricing-rules.php:571
+msgid "Discount"
+msgstr ""
+
+#: view/includes/footer.php:7
+msgid ""
+"Having trouble in setting up the discount? Let us set up the rules for you "
+"(for free)!"
+msgstr ""
+
+#: view/includes/footer.php:7
+msgid "Please contact our support team"
+msgstr ""
+
+#: view/includes/header.php:13
+#, php-format
+msgid ""
+"An another discount plugin %s is active. Please disable this plugin, Woo "
+"Discount Rules might get conflict."
+msgstr ""
+
+#: view/includes/menu.php:13
+msgid "Settings"
+msgstr ""
+
+#: view/includes/sub-menu.php:11
+msgid "Condition"
+msgstr ""
+
+#: view/pricing-rules.php:79
+msgid "Price Rules"
+msgstr ""
+
+#: view/settings.php:27
+msgid "Price rules"
+msgstr ""
+
+#: view/settings.php:28
+msgid "Cart rules"
+msgstr ""
+
+#: view/settings.php:29
+msgid "Performance"
+msgstr ""
+
+#: view/settings.php:30
+msgid "Promotion"
+msgstr ""
+
+#: view/settings.php:37
+msgid "General Settings"
+msgstr ""
+
+#: view/settings.php:44
+msgid "License Key :"
+msgstr ""
+
+#: view/settings.php:50
+msgid "Your Unique License Key"
+msgstr ""
+
+#: view/settings.php:51
+msgid "Validate Key"
+msgstr ""
+
+#: view/settings.php:78
+msgid "Enable Bootstrap"
+msgstr ""
+
+#: view/settings.php:83 view/settings.php:95 view/settings.php:107
+#: view/settings.php:120 view/settings.php:305 view/settings.php:317
+#: view/settings.php:464
+msgid "Yes"
+msgstr ""
+
+#: view/settings.php:84 view/settings.php:96 view/settings.php:108
+#: view/settings.php:121 view/settings.php:306 view/settings.php:318
+#: view/settings.php:465 view/view-cart-rules.php:526
+#: view/view-pricing-rules.php:354
+msgid "No"
+msgstr ""
+
+#: view/settings.php:90
+msgid "Force refresh the cart widget while add and remove item to cart"
+msgstr ""
+
+#: view/settings.php:102
+msgid "Disable the rules while have coupon(Third party) in cart"
+msgstr ""
+
+#: view/settings.php:115
+msgid ""
+"Hide $0.00 (zero value) of coupon codes in the totals column. Useful when a "
+"coupon used with discount rule conditions"
+msgstr ""
+
+#: view/settings.php:132
+msgid "Price rules settings"
+msgstr ""
+
+#: view/settings.php:140
+msgid "Rule Setup for Price:"
+msgstr ""
+
+#: view/settings.php:146 view/settings.php:354
+msgid "Apply first matched rule"
+msgstr ""
+
+#: view/settings.php:152 view/settings.php:154 view/settings.php:360
+#: view/settings.php:362
+msgid "Apply all matched rules"
+msgstr ""
+
+#: view/settings.php:161 view/settings.php:163 view/settings.php:369
+#: view/settings.php:371
+msgid "Apply biggest discount"
+msgstr ""
+
+#: view/settings.php:173
+msgid "Show Price discount on product page :"
+msgstr ""
+
+#: view/settings.php:182 view/settings.php:201 view/settings.php:220
+#: view/settings.php:256 view/settings.php:274 view/settings.php:292
+msgid "Don't Show"
+msgstr ""
+
+#: view/settings.php:185 view/settings.php:204
+msgid "It displays only if any rule matches"
+msgstr ""
+
+#: view/settings.php:192
+msgid "Show Sale tag on product page :"
+msgstr ""
+
+#: view/settings.php:211
+msgid "Discount Table :"
+msgstr ""
+
+#: view/settings.php:229
+msgid "Table placement:"
+msgstr ""
+
+#: view/settings.php:235
+msgid "Before cart form"
+msgstr ""
+
+#: view/settings.php:238
+msgid "After cart form"
+msgstr ""
+
+#: view/settings.php:247
+msgid "Show column title on table :"
+msgstr ""
+
+#: view/settings.php:265
+msgid "Show column discount range on table :"
+msgstr ""
+
+#: view/settings.php:283
+msgid "Show column discount on table :"
+msgstr ""
+
+#: view/settings.php:300
+msgid "Show strikeout discount in cart item"
+msgstr ""
+
+#: view/settings.php:312
+msgid "Auto add free product on coupon applied (For coupon based rules)"
+msgstr ""
+
+#: view/settings.php:328
+msgid "Cart rules settings"
+msgstr ""
+
+#: view/settings.php:335
+msgid "Coupon Name to be displayed :"
+msgstr ""
+
+#: view/settings.php:341
+msgid "Discount Coupon Name"
+msgstr ""
+
+#: view/settings.php:348
+msgid "Rule Setup for Cart:"
+msgstr ""
+
+#: view/settings.php:380
+msgid "Enable free shipping option"
+msgstr ""
+
+#: view/settings.php:387 view/view-pricing-rules.php:256
+#: view/view-pricing-rules.php:313 view/view-pricing-rules.php:366
+#: view/view-pricing-rules.php:412 view/view-pricing-rules.php:441
+msgid "Supported in PRO version"
+msgstr ""
+
+#: view/settings.php:390 view/settings.php:397 view/settings.php:499
+#: view/settings.php:534
+msgid "Disabled"
+msgstr ""
+
+#: view/settings.php:400
+msgid "Use Woocommerce free shipping"
+msgstr ""
+
+#: view/settings.php:403
+msgid "Use Woo-Discount free shipping"
+msgstr ""
+
+#: view/settings.php:417
+msgid "Free shipping text to be displayed"
+msgstr ""
+
+#: view/settings.php:424
+msgid "Free Shipping title"
+msgstr ""
+
+#: view/settings.php:431
+msgid "Draft"
+msgstr ""
+
+#: view/settings.php:441
+msgid "Exclude Draft products in product select box."
+msgstr ""
+
+#: view/settings.php:451
+msgid "Performance settings"
+msgstr ""
+
+#: view/settings.php:459
+msgid "Enable cache for variable products table content"
+msgstr ""
+
+#: view/settings.php:471 view/settings.php:475
+msgid "Clear cache"
+msgstr ""
+
+#: view/settings.php:485
+msgid "Promotion settings"
+msgstr ""
+
+#: view/settings.php:492
+msgid "Message on apply price rules in cart"
+msgstr ""
+
+#: view/settings.php:510 view/settings.php:545
+msgid "Text"
+msgstr ""
+
+#: view/settings.php:518 view/settings.php:553
+msgid "{{title}} -> displays title"
+msgstr ""
+
+#: view/settings.php:519 view/settings.php:554
+msgid "{{description}} -> displays description"
+msgstr ""
+
+#: view/settings.php:527
+msgid "Message on apply cart rules in cart"
+msgstr ""
+
+#: view/template/discount-table.php:22
+msgid "Range"
+msgstr ""
+
+#: view/template/discount-table.php:56
+msgid "No Active Discounts."
+msgstr ""
+
+#: view/template/sidebar.php:7
+msgid "Looking for more features? Upgrade to PRO"
+msgstr ""
+
+#: view/view-cart-rules.php:55 view/view-pricing-rules.php:39
+msgid "Cancel and go back to list"
+msgstr ""
+
+#: view/view-cart-rules.php:59
+msgid "New Cart Rule"
+msgstr ""
+
+#: view/view-cart-rules.php:61
+msgid "Edit Cart Rule"
+msgstr ""
+
+#: view/view-cart-rules.php:68 view/view-pricing-rules.php:52
+msgid "Order :"
+msgstr ""
+
+#: view/view-cart-rules.php:70 view/view-pricing-rules.php:54
+msgid ""
+"The Simple Ranking concept to said, which one is going to execute first and "
+"so on."
+msgstr ""
+
+#: view/view-cart-rules.php:77 view/view-pricing-rules.php:62
+msgid "WARNING: More than one rule should not have same priority."
+msgstr ""
+
+#: view/view-cart-rules.php:83 view/view-pricing-rules.php:68
+msgid "Rule Name"
+msgstr ""
+
+#: view/view-cart-rules.php:85 view/view-cart-rules.php:97
+#: view/view-pricing-rules.php:70 view/view-pricing-rules.php:82
+msgid "Rule Descriptions."
+msgstr ""
+
+#: view/view-cart-rules.php:90 view/view-pricing-rules.php:75
+msgid "ex. Standard Rule."
+msgstr ""
+
+#: view/view-cart-rules.php:95 view/view-pricing-rules.php:80
+msgid "Rule Description"
+msgstr ""
+
+#: view/view-cart-rules.php:106 view/view-pricing-rules.php:116
+msgid "Validity"
+msgstr ""
+
+#: view/view-cart-rules.php:107 view/view-pricing-rules.php:117
+msgid "Period of Rule Active. Format: month/day/Year Hour:Min"
+msgstr ""
+
+#: view/view-cart-rules.php:120 view/view-pricing-rules.php:130
+#: view/view-pricing-rules.php:515
+msgid "From"
+msgstr ""
+
+#: view/view-cart-rules.php:124
+msgid "To"
+msgstr ""
+
+#: view/view-cart-rules.php:125 view/view-pricing-rules.php:135
+#, php-format
+msgid "Current date and time: %s"
+msgstr ""
+
+#: view/view-cart-rules.php:130 view/view-cart-rules.php:546
+#: view/view-pricing-rules.php:139 view/view-pricing-rules.php:564
+msgid "Next"
+msgstr ""
+
+#: view/view-cart-rules.php:134
+msgid "Cart Conditions"
+msgstr ""
+
+#: view/view-cart-rules.php:137
+msgid "Add Condition"
+msgstr ""
+
+#: view/view-cart-rules.php:206
+msgid "Categories In Cart"
+msgstr ""
+
+#: view/view-cart-rules.php:264 view/view-cart-rules.php:266
+msgid "Email with TLD (Eg: edu)"
+msgstr ""
+
+#: view/view-cart-rules.php:526 view/view-pricing-rules.php:354
+msgid "To get this condition work,"
+msgstr ""
+
+#: view/view-cart-rules.php:526 view/view-pricing-rules.php:354
+msgid "please change the option"
+msgstr ""
+
+#: view/view-cart-rules.php:526 view/view-pricing-rules.php:354
+msgid "Disable the rules while have coupon(Third party)"
+msgstr ""
+
+#: view/view-cart-rules.php:526 view/view-pricing-rules.php:354
+msgid "in cart to"
+msgstr ""
+
+#: view/view-cart-rules.php:545 view/view-cart-rules.php:605
+#: view/view-pricing-rules.php:563 view/view-pricing-rules.php:750
+msgid "Previous"
+msgstr ""
+
+#: view/view-cart-rules.php:567
+msgid "Discount Type :"
+msgstr ""
+
+#: view/view-cart-rules.php:586 view/view-cart-rules.php:588
+msgid "Free shipping"
+msgstr ""
+
+#: view/view-cart-rules.php:597
+msgid "value :"
+msgstr ""
+
+#: view/view-pricing-rules.php:43
+msgid "New Price Rule"
+msgstr ""
+
+#: view/view-pricing-rules.php:45
+msgid "Edit Price Rule"
+msgstr ""
+
+#: view/view-pricing-rules.php:91
+msgid "Method"
+msgstr ""
+
+#: view/view-pricing-rules.php:93
+msgid "Method to Apply."
+msgstr ""
+
+#: view/view-pricing-rules.php:99
+msgid "Quantity based by product/category and BOGO deals"
+msgstr ""
+
+#: view/view-pricing-rules.php:106 view/view-pricing-rules.php:108
+msgid "Dependant product based discount"
+msgstr ""
+
+#: view/view-pricing-rules.php:134
+msgid "To - Leave Empty if No Expiry"
+msgstr ""
+
+#: view/view-pricing-rules.php:144
+msgid "Discount Conditions"
+msgstr ""
+
+#: view/view-pricing-rules.php:149
+msgid "Apply To"
+msgstr ""
+
+#: view/view-pricing-rules.php:155
+msgid "All products"
+msgstr ""
+
+#: view/view-pricing-rules.php:159
+msgid "Specific products"
+msgstr ""
+
+#: view/view-pricing-rules.php:165 view/view-pricing-rules.php:167
+msgid "Specific categories"
+msgstr ""
+
+#: view/view-pricing-rules.php:174 view/view-pricing-rules.php:176
+msgid "Specific attributes"
+msgstr ""
+
+#: view/view-pricing-rules.php:187
+msgid "Check this box to count quantities cumulatively across products"
+msgstr ""
+
+#: view/view-pricing-rules.php:199
+msgid "Check this box to count quantities cumulatively across category(ies)"
+msgstr ""
+
+#: view/view-pricing-rules.php:202
+msgid "Check this box to apply child category(ies)"
+msgstr ""
+
+#: view/view-pricing-rules.php:216
+msgid "Check this box to count quantities cumulatively across attribute"
+msgstr ""
+
+#: view/view-pricing-rules.php:226
+msgid "Exclude products"
+msgstr ""
+
+#: view/view-pricing-rules.php:245
+msgid "Exclude sale items"
+msgstr ""
+
+#: view/view-pricing-rules.php:250
+msgid "Check this box if the rule should not apply to items on sale."
+msgstr ""
+
+#: view/view-pricing-rules.php:269
+msgid "Customers"
+msgstr ""
+
+#: view/view-pricing-rules.php:274 view/view-pricing-rules.php:536
+msgid "All"
+msgstr ""
+
+#: view/view-pricing-rules.php:281 view/view-pricing-rules.php:283
+msgid "Only Given"
+msgstr ""
+
+#: view/view-pricing-rules.php:297
+msgid "User roles"
+msgstr ""
+
+#: view/view-pricing-rules.php:302 view/view-pricing-rules.php:332
+#: view/view-pricing-rules.php:387 view/view-pricing-rules.php:430
+msgid "Do not use"
+msgstr ""
+
+#: view/view-pricing-rules.php:324
+msgid "Coupon"
+msgstr ""
+
+#: view/view-pricing-rules.php:333
+msgid "Apply if any one coupon applied"
+msgstr ""
+
+#: view/view-pricing-rules.php:334
+msgid "Apply if all coupon applied"
+msgstr ""
+
+#: view/view-pricing-rules.php:340
+msgid "Enter the coupon code separated by comma(,)"
+msgstr ""
+
+#: view/view-pricing-rules.php:344
+msgid "Make sure you have created the coupon already"
+msgstr ""
+
+#: view/view-pricing-rules.php:377
+msgid "Subtotal"
+msgstr ""
+
+#: view/view-pricing-rules.php:388
+msgid "Subtotal atleast"
+msgstr ""
+
+#: view/view-pricing-rules.php:393
+msgid "Enter the amount"
+msgstr ""
+
+#: view/view-pricing-rules.php:403
+msgid "Supported in WooCommerce 3.x"
+msgstr ""
+
+#: view/view-pricing-rules.php:432
+msgid "Number of orders"
+msgstr ""
+
+#: view/view-pricing-rules.php:433
+msgid "Purchased product"
+msgstr ""
+
+#: view/view-pricing-rules.php:507
+msgid "Any"
+msgstr ""
+
+#: view/view-pricing-rules.php:508
+msgid "Each"
+msgstr ""
+
+#: view/view-pricing-rules.php:509
+msgid "Combine"
+msgstr ""
+
+#: view/view-pricing-rules.php:512
+msgid "More than"
+msgstr ""
+
+#: view/view-pricing-rules.php:513
+msgid "Less than"
+msgstr ""
+
+#: view/view-pricing-rules.php:514
+msgid "Equal"
+msgstr ""
+
+#: view/view-pricing-rules.php:517 view/view-pricing-rules.php:520
+#: view/view-pricing-rules.php:540
+msgid "Quantity"
+msgstr ""
+
+#: view/view-pricing-rules.php:519
+msgid "to"
+msgstr ""
+
+#: view/view-pricing-rules.php:523
+msgid "Product(s) from"
+msgstr ""
+
+#: view/view-pricing-rules.php:529
+msgid "Apply discount in product(s)"
+msgstr ""
+
+#: view/view-pricing-rules.php:530
+msgid "Apply discount in category(ies)"
+msgstr ""
+
+#: view/view-pricing-rules.php:534
+msgid "and get discount in "
+msgstr ""
+
+#: view/view-pricing-rules.php:537
+msgid "First quantity(s)"
+msgstr ""
+
+#: view/view-pricing-rules.php:538
+msgid "Skip first quantity(s)"
+msgstr ""
+
+#: view/view-pricing-rules.php:543
+msgid " Product(s) "
+msgstr ""
+
+#: view/view-pricing-rules.php:547
+msgid "Category(ies)"
+msgstr ""
+
+#: view/view-pricing-rules.php:558
+msgid "Document for product dependent rules"
+msgstr ""
+
+#: view/view-pricing-rules.php:574
+msgid "Add New Range"
+msgstr ""
+
+#: view/view-pricing-rules.php:733
+msgid "Document to create perfect BOGO rules"
+msgstr ""
+
+#: view/view-pricing-rules.php:743
+msgid "Percent"
+msgstr ""
+
+#: view/view-pricing-rules.php:744
+msgid "Fixed"
+msgstr ""
